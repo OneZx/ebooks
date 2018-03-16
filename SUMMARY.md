@@ -1,3 +1,5 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [JavaScript面向对象编程指南\(第2版\)](chapter1.md)
+
